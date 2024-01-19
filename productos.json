@@ -1,0 +1,25 @@
+[
+
+  {
+    "id": "4d1cfd3d-aacb-4b8d-8cc7-6cb731edee2a",
+    "title": "sistemas",
+    "description": "postman",
+    "price": 3658,
+    "thumbnail": "fire.jpg",
+    "code": "qwe591",
+    "stock": 20,
+    "status": true,
+    "category": "alarmas"
+  },
+  {
+    "id": "eebbe82f-2b15-4704-839b-1e433f64836d",
+    "title": "nuevo",
+    "description": "prueba de postman",
+    "price": 1378,
+    "thumbnail": "1024.jpg",
+    "code": "sdr1",
+    "stock": 2,
+    "status": true,
+    "category": "alarmas 3"
+  }
+]
